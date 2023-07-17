@@ -8,6 +8,7 @@
 - 🌱  I am in intensive training to cultivate my skills as a full-stack developer.
 - 💬 Ask me about Web Frontend.
 - 📫 How to reach me: kc_telyn@yahoo.com
+- 🎸 I'm an occasional ukelele player. When I need a break from coding, I pick up my instrument and let the music flow.
 
 
 <h3 align="left">Connect with me:</h3>
