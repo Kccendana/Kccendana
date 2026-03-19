@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kccendana&label=Profile%20views&color=0e75b6&style=flat" alt="kccendana" /> </p>
 
 
-- 🔭 I am currently fully immersed in my full-time studies at Microverse.
+- 🔭 I am currently fully immersed in my full-time studies at Brigham Young University-Idaho.
 - 🌱  I am in intensive training to cultivate my skills as a full-stack developer.
 - 💬 Ask me about Web Frontend.
 - 📫 How to reach me: kc_telyn@yahoo.com
