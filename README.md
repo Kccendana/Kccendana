@@ -12,10 +12,10 @@
 - 🙋🏻 Check my portfolio: [https://kccendana.github.io/portfolio_project/](https://kccendana.github.io/portfolio_project/)
 
 
-<h3 align="left">My Personal Projects and Team Collaborative Projects:</h3>
-- [CineFlix](https://github.com/Kccendana/cineFlix)
+## <h3 align="left">My Personal Projects and Team Collaborative Projects:</h3>
+* [CineFlix](https://github.com/Kccendana/cineFlix)
 <p>Web application that helps movie lovers be updated with the best rated movies, add movie to list and watch trailer. It offers a streamlined and interactive experience where users can search and explore movies and add to movielists.</p>
-- [HandCrafted Haven](https://github.com/haithcock/wdd430_team01)
+* [HandCrafted Haven](https://github.com/haithcock/wdd430_team01)
 <p>A collaborative full-stack web app developed using Next.js, demonstrating skills in frontend development, backend APIs, and database integration.</p>
 
 
