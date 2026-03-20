@@ -12,7 +12,7 @@
 - 🙋🏻 Check my portfolio: [https://kccendana.github.io/portfolio_project/](https://kccendana.github.io/portfolio_project/)
 
 
-#### My Personal Projects and Team Collaborative Projects:
+### My Personal Projects and Team Collaborative Projects:
 
 - [CineFlix](https://github.com/Kccendana/cineFlix)  
   Web application that helps movie lovers stay updated with top-rated movies, add movies to a list, and watch trailers. It offers a streamlined and interactive experience for searching and exploring films.
