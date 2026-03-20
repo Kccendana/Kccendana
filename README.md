@@ -12,12 +12,13 @@
 - 🙋🏻 Check my portfolio: [https://kccendana.github.io/portfolio_project/](https://kccendana.github.io/portfolio_project/)
 
 
-## <h3 align="left">My Personal Projects and Team Collaborative Projects:</h3>
-* [CineFlix](https://github.com/Kccendana/cineFlix)
-<p>Web application that helps movie lovers be updated with the best rated movies, add movie to list and watch trailer. It offers a streamlined and interactive experience where users can search and explore movies and add to movielists.</p>
-* [HandCraftedHaven](https://github.com/haithcock/wdd430_team01)
-<p>A collaborative full-stack web app developed using Next.js, demonstrating skills in frontend development, backend APIs, and database integration.</p>
+## My Personal Projects and Team Collaborative Projects:
 
+- [CineFlix](https://github.com/Kccendana/cineFlix)  
+  Web application that helps movie lovers stay updated with top-rated movies, add movies to a list, and watch trailers. It offers a streamlined and interactive experience for searching and exploring films.
+
+- [HandCraftedHaven](https://github.com/haithcock/wdd430_team01)  
+  A collaborative full-stack web app developed using Next.js, demonstrating skills in frontend development, backend APIs, and database integration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
